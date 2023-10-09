@@ -9,7 +9,8 @@
 - Install virtual env `python3 -m venv /path/to/new/virtual/environment`
 - Activate venv `source <venv>/bin/activate`
 - Install dependencies `pip install -r requirements.txt`
-- Run tests with a basic report `pytest -v tests --html=report.html  `
+- Run appium using terminal `appium`
+- Run tests with a basic report `pytest -v tests --html=report.html`
 - Run tests with allure report `pytest -v tests --alluredir=allure_report`
 
 ## To open the basic report:
