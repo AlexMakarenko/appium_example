@@ -1,0 +1,7 @@
+venv
+__pycache__
+info.log
+ios_pages/.DS_Store
+report.html
+assets/
+allure_report
